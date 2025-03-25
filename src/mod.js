@@ -31,7 +31,7 @@ class UnlockHideoutCustomizationMod {
             "675467aa81067119a10938cb", // Wall_Loft : Brick
             "675467e643b934b1a7089ad3", // Wall_Street : Factory
             "675467f4c6e063d76309c60d", // Wall_Wallpaper : Modest Wallpaper
-            "675467bb5b7ebafefd0ebc2e", // Wall_Orange" : Orange
+            "675467bb5b7ebafefd0ebc2e", // Wall_Orange : Orange
             "675467c924c9a7ccb509d62f", // Wall_Prestige : Quiet Luxury
             "675467d8b784110b2702fe11", // Wall_Red : Red
             "675844d50ec1f5ab030c8ff8", // Wall_Kindergarten : Tranquility
