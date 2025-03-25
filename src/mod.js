@@ -28,7 +28,7 @@ class UnlockHideoutCustomizationMod {
             "675466bcc6e063d76309c609", // Floor_Tile : Small Tiles
             "675844580ec1f5ab030c8ff6", // Floor_Kindergarten : Synthetic Grass
             "675467728b3797a0e8038bd4", // Wall_Blue : Blue
-            "675467aa81067119a10938cb", // Wall_Loft" : Brick
+            "675467aa81067119a10938cb", // Wall_Loft : Brick
             "675467e643b934b1a7089ad3", // Wall_Street : Factory
             "675467f4c6e063d76309c60d", // Wall_Wallpaper : Modest Wallpaper
             "675467bb5b7ebafefd0ebc2e", // Wall_Orange" : Orange
